@@ -16,3 +16,5 @@ Outside of academics and work, I find great joy in playing basketball. It's not 
 
 I'm always eager to take on new challenges and expand my horizons, both professionally and personally. Whether it's diving into a complex project, experimenting with new technology, or simply enjoying a good game of basketball, I approach everything with enthusiasm and a positive attitude.
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-xavier-b547b322a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
