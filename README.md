@@ -1,4 +1,4 @@
- # Hello I´m Sam 🌻
+ # Hello I´m Sam 
 ## Welcome 
 ![Sam-type GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-type&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-type&layout=donut)](https://github.com/Sam-type/github-readme-stats) <br> 
